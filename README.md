@@ -23,7 +23,7 @@ One of the services, *mobilenetservice*, shows how to use JavaScript based micro
 ### Start/Stop
 
 #### Docker Compose
-
+test
 Start:
 
 ```
