@@ -1,6 +1,5 @@
 Commit 1
-Commit 2
-Commit 3
+Commit 1.5
 # Katana ML Skipper
 [![PyPI - Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://github.com/katanaml/katana-skipper)
 [![GitHub Stars](https://img.shields.io/github/stars/katanaml/katana-skipper.svg)](https://github.com/katanaml/katana-skipper/stargazers)
